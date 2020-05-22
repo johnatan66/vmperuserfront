@@ -1,0 +1,21 @@
+body{
+    foot-family: Arial;
+}
+h1{
+    background-color: blueviolet;
+    color: white;
+}
+p{
+    font-size: 15p;
+}
+#divgeral{
+    background-color: burlywood;
+}
+
+#divinterna{
+    color: green;
+}
+
+#divinternainterna{
+    color: blue;
+}
